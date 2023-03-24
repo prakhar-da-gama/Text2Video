@@ -1,0 +1,2 @@
+title = """sample1"""
+blog = """        With climate change a major challenge for Pacific island states, Jaishankar and Fiji President Wiliame Katonivere jointly launched a project funded by India to install solar power systems in the official residences of Pacific heads of state, beginning with the “solarisation” of the presidential residence in Fiji. The two-year project, costing more than $ 1.3 million, has been largely funded by the Indian government through the India-UN Development Partnership Fund."""

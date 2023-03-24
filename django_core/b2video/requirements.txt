@@ -1,0 +1,7 @@
+keybert
+gTTS
+imageio==2.4.1
+imageio-ffmpeg
+moviepy
+bing-image-downloader
+scikit-image
